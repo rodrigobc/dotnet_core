@@ -1,0 +1,9 @@
+C:\Users\Rodrigo\docs\samples\framework\docker\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\bin\Debug\ConsoleRandomAnswerGenerator.exe.config
+C:\Users\Rodrigo\docs\samples\framework\docker\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\bin\Debug\ConsoleRandomAnswerGenerator.exe
+C:\Users\Rodrigo\docs\samples\framework\docker\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\bin\Debug\ConsoleRandomAnswerGenerator.pdb
+C:\Users\Rodrigo\docs\samples\framework\docker\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\obj\Debug\ConsoleRandomAnswerGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\docs\samples\framework\docker\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\obj\Debug\ConsoleRandomAnswerGenerator.exe
+C:\Users\Rodrigo\docs\samples\framework\docker\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\obj\Debug\ConsoleRandomAnswerGenerator.pdb
+C:\Users\Rodrigo\dev\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\bin\Debug\ConsoleRandomAnswerGenerator.exe.config
+C:\Users\Rodrigo\dev\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\obj\Debug\ConsoleRandomAnswerGenerator.exe
+C:\Users\Rodrigo\dev\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\obj\Debug\ConsoleRandomAnswerGenerator.pdb

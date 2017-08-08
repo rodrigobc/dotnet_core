@@ -1,0 +1,8 @@
+/app/bin/Debug/netcoreapp1.0/app.deps.json
+/app/bin/Debug/netcoreapp1.0/app.runtimeconfig.json
+/app/bin/Debug/netcoreapp1.0/app.runtimeconfig.dev.json
+/app/bin/Debug/netcoreapp1.0/app.dll
+/app/bin/Debug/netcoreapp1.0/app.pdb
+/app/obj/Debug/netcoreapp1.0/app.AssemblyInfo.cs
+/app/obj/Debug/netcoreapp1.0/app.dll
+/app/obj/Debug/netcoreapp1.0/app.pdb

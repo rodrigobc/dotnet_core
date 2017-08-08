@@ -1,0 +1,6 @@
+C:\Users\Rodrigo\docs\samples\framework\docker\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\publish\ConsoleRandomAnswerGenerator.exe.config
+C:\Users\Rodrigo\docs\samples\framework\docker\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\publish\ConsoleRandomAnswerGenerator.exe
+C:\Users\Rodrigo\docs\samples\framework\docker\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\publish\ConsoleRandomAnswerGenerator.pdb
+C:\Users\Rodrigo\docs\samples\framework\docker\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\obj\Release\ConsoleRandomAnswerGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\docs\samples\framework\docker\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\obj\Release\ConsoleRandomAnswerGenerator.exe
+C:\Users\Rodrigo\docs\samples\framework\docker\ConsoleRandomAnswerGenerator\ConsoleRandomAnswerGenerator\obj\Release\ConsoleRandomAnswerGenerator.pdb
